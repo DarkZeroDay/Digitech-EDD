@@ -13,12 +13,12 @@ public class Arrays_I_Ejercicio1 {
     public static void main(String[] args) {
         
         int[] num = new int[10];
-        int indice=0;
+        int index=0;
         
         for (int i=10; i>0; i--)
         {
-            num[indice]=i;
-            indice=indice+1;                       
+            num[index]=i;
+            index=index+1;                       
         }
         
         for (int j=0; j < 10; j++){
