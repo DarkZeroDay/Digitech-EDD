@@ -6,7 +6,7 @@ package com.digitech.arrays_i_ejercicio1;
  *  Diseñar un array, que almacena los números del 1 al 10. Consideraciones:
      Utilizar un bucle for para cargar el array
      Se deben imprimir los datos del array en sentido inverso
- * @author SergioAT
+ * @author Sergio Alonso
  */
 public class Arrays_I_Ejercicio1 {
 
